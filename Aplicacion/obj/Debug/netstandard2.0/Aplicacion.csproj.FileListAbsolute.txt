@@ -12,3 +12,17 @@ C:\ProyectoCore\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.AssemblyInfo.cs
 C:\ProyectoCore\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.csproj.CopyComplete
 C:\ProyectoCore\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.dll
 C:\ProyectoCore\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.pdb
+C:\Users\gian.huallanca\Desktop\ProyectoCore\Aplicacion\bin\Debug\netstandard2.0\Aplicacion.deps.json
+C:\Users\gian.huallanca\Desktop\ProyectoCore\Aplicacion\bin\Debug\netstandard2.0\Aplicacion.dll
+C:\Users\gian.huallanca\Desktop\ProyectoCore\Aplicacion\bin\Debug\netstandard2.0\Aplicacion.pdb
+C:\Users\gian.huallanca\Desktop\ProyectoCore\Aplicacion\bin\Debug\netstandard2.0\Dominio.dll
+C:\Users\gian.huallanca\Desktop\ProyectoCore\Aplicacion\bin\Debug\netstandard2.0\Persistencia.dll
+C:\Users\gian.huallanca\Desktop\ProyectoCore\Aplicacion\bin\Debug\netstandard2.0\Dominio.pdb
+C:\Users\gian.huallanca\Desktop\ProyectoCore\Aplicacion\bin\Debug\netstandard2.0\Persistencia.pdb
+C:\Users\gian.huallanca\Desktop\ProyectoCore\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.csprojAssemblyReference.cache
+C:\Users\gian.huallanca\Desktop\ProyectoCore\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\gian.huallanca\Desktop\ProyectoCore\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.AssemblyInfoInputs.cache
+C:\Users\gian.huallanca\Desktop\ProyectoCore\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.AssemblyInfo.cs
+C:\Users\gian.huallanca\Desktop\ProyectoCore\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.csproj.CopyComplete
+C:\Users\gian.huallanca\Desktop\ProyectoCore\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.dll
+C:\Users\gian.huallanca\Desktop\ProyectoCore\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.pdb
