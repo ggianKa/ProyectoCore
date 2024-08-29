@@ -3,6 +3,8 @@ using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using Persistencia;
+using Dominio;
 
 namespace WebAPI.Controllers
 {
@@ -12,10 +14,15 @@ namespace WebAPI.Controllers
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
+        //Inyección de dependencias
+        private readonly CursosOnlineContext context;
+        public WeatherForecastController(CursosOnlineContext _context){ 
+            this.context = _context;
+        }
+
         [HttpGet]
-        public IEnumerable<string> Get(){
-            string[] nombres = new[]{"Fabian", "Rolando", "Maria", "Rebeca"};
-            return nombres;
+        public IEnumerable<Curso> Get(){
+            return context.Curso.ToList();
         }
     }
 }

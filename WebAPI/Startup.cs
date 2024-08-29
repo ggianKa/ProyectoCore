@@ -8,6 +8,9 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Persistencia;
+using Microsoft.EntityFrameworkCore;
+using Dominio;
 
 namespace WebAPI
 {
@@ -23,6 +26,11 @@ namespace WebAPI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddDbContext<CursosOnlineContext>(opt => {
+                //Añadimos cadena de conexion del appsetting.json
+                opt.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
+            });
+
             services.AddControllersWithViews();
         }
 

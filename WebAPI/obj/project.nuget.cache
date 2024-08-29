@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "grpwQ91Iv7MGtiPlrzIp8P2clmxQJOt7C6mCpIHHNwKG9psrDSJFt6wSLPymGaZUcirfGh2LUOc+DKqELgNXvg==",
+  "dgSpecHash": "Hp9BY5XAZzDAuQdN/DSXdRriHUcvotpBe/AfvEvIz9UVL38pOv/Oh3cm6LxpAlBHFSHY0jpoo9Lo37rNuF4MDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\WebApi\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gian.huallanca\\.nuget\\packages\\automapper\\8.1.1\\automapper.8.1.1.nupkg.sha512",
     "C:\\Users\\gian.huallanca\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.1.1\\automapper.extensions.microsoft.dependencyinjection.6.1.1.nupkg.sha512",
