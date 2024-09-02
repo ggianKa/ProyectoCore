@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Persistencia\\Persistencia.csproj": {}
+    "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Persistencia\\Persistencia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\Dominio.csproj": {
+    "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\Dominio.csproj",
-        "packagesPath": "C:\\Users\\Gian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\obj\\",
+        "projectPath": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\gian.huallanca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Gian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gian.huallanca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,17 +69,21 @@
         }
       }
     },
-    "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Persistencia\\Persistencia.csproj": {
+    "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Persistencia\\Persistencia.csproj",
-        "packagesPath": "C:\\Users\\Gian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Persistencia\\obj\\",
+        "projectPath": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Persistencia\\Persistencia.csproj",
+        "packagesPath": "C:\\Users\\gian.huallanca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Gian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gian.huallanca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,8 +96,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\Dominio.csproj"
+              "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Dominio\\Dominio.csproj"
               }
             }
           }

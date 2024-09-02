@@ -12,10 +12,10 @@ namespace WebAPI.Controllers
     [Route("api/[controller]")]
     [ApiController]
    
-    public class CursosControllers : ControllerBase
+    public class CursosController : ControllerBase
     {
         private readonly IMediator _mediator;
-        public CursosControllers(IMediator mediator)
+        public CursosController(IMediator mediator)
         {
             _mediator = mediator;
         }
