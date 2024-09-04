@@ -1,7 +1,6 @@
 C:\Users\gian.huallanca\Desktop\ProyectoCore\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
 C:\Users\gian.huallanca\Desktop\ProyectoCore\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
 C:\Users\gian.huallanca\Desktop\ProyectoCore\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
-C:\Users\gian.huallanca\Desktop\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.csprojAssemblyReference.cache
 C:\Users\gian.huallanca\Desktop\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
 C:\Users\gian.huallanca\Desktop\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
 C:\Users\gian.huallanca\Desktop\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
@@ -16,3 +15,13 @@ C:\Users\Gian\Desktop\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.Assem
 C:\Users\Gian\Desktop\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
 C:\Users\Gian\Desktop\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
 C:\Users\Gian\Desktop\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\gian.huallanca\Desktop\ProyectoCore1\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\gian.huallanca\Desktop\ProyectoCore1\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\gian.huallanca\Desktop\ProyectoCore1\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\gian.huallanca\Desktop\ProyectoCore1\Dominio\obj\Debug\netcoreapp3.1\Dominio.csprojAssemblyReference.cache
+C:\Users\gian.huallanca\Desktop\ProyectoCore1\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\gian.huallanca\Desktop\ProyectoCore1\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\gian.huallanca\Desktop\ProyectoCore1\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\gian.huallanca\Desktop\ProyectoCore1\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\gian.huallanca\Desktop\ProyectoCore1\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\gian.huallanca\Desktop\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache

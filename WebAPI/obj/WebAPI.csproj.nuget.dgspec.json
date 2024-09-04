@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\WebApi\\WebAPI.csproj": {}
+    "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
     "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Aplicacion\\Aplicacion.csproj": {
@@ -30,6 +30,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
               "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Dominio\\Dominio.csproj": {
                 "projectPath": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Dominio\\Dominio.csproj"
@@ -44,10 +45,16 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
@@ -114,6 +121,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -121,10 +129,16 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
@@ -179,6 +193,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
               "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Dominio\\Dominio.csproj": {
                 "projectPath": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Dominio\\Dominio.csproj"
@@ -190,10 +205,16 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Dapper": {
               "target": "Package",
@@ -234,14 +255,14 @@
         }
       }
     },
-    "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\WebApi\\WebAPI.csproj": {
+    "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\WebApi\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\WebApi\\WebAPI.csproj",
+        "projectPath": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\gian.huallanca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\WebApi\\obj\\",
+        "outputPath": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -260,6 +281,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
               "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Aplicacion\\Aplicacion.csproj": {
                 "projectPath": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Aplicacion\\Aplicacion.csproj"
@@ -271,10 +293,16 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
