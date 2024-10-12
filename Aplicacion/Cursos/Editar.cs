@@ -1,4 +1,5 @@
-﻿using MediatR;
+﻿using FluentValidation;
+using MediatR;
 using Persistencia;
 using System;
 using System.Threading;
@@ -19,6 +20,19 @@ namespace Aplicacion.Cursos
             // El signo de interrogacion es para que acepte valores nulos
             public DateTime? FechaPublicacion { get; set; }
         }
+
+        // Regla para validar los datos
+        public class EjecutaValidacion : AbstractValidator<Ejecuta>
+        {
+            public EjecutaValidacion()
+            {
+                RuleFor(x => x.Titulo).NotEmpty();
+                RuleFor(x => x.Descripcion).NotEmpty();
+                RuleFor(x => x.FechaPublicacion).NotEmpty();
+            }
+        }
+
+
         // La clase Manejador es responsable de manejar la solicitud para editar un curso.
         public class Manejador : IRequestHandler<Ejecuta>
         {

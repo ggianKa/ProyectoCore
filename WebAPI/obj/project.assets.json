@@ -7562,24 +7562,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gian.huallanca\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Gian\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\WebAPI\\WebAPI.csproj",
-      "packagesPath": "C:\\Users\\gian.huallanca\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\WebAPI\\obj\\",
+      "projectPath": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\WebAPI\\WebAPI.csproj",
+      "packagesPath": "C:\\Users\\Gian\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\gian.huallanca\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Gian\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7593,8 +7588,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Aplicacion\\Aplicacion.csproj": {
-              "projectPath": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Aplicacion\\Aplicacion.csproj"
+            "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Aplicacion\\Aplicacion.csproj": {
+              "projectPath": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Aplicacion\\Aplicacion.csproj"
             }
           }
         }

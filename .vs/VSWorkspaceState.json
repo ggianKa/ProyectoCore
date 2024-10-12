@@ -5,8 +5,9 @@
     "\\Aplicacion\\Cursos",
     "\\Dominio",
     "\\Persistencia",
-    "\\WebAPI"
+    "\\WebAPI",
+    "\\WebAPI\\Controllers"
   ],
-  "SelectedNode": "\\Aplicacion\\Cursos\\Editar.cs",
+  "SelectedNode": "\\ProyectoCore.sln",
   "PreviewInSolutionExplorer": false
 }

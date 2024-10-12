@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\",
+  "WorkspaceRootPath": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{899F2C49-37C5-4A23-A93F-EF6577BD7903}|Aplicacion\\Aplicacion.csproj|c:\\users\\gian.huallanca\\desktop\\proyectocore\\aplicacion\\cursos\\eliminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{899F2C49-37C5-4A23-A93F-EF6577BD7903}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\cursos\\eliminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6960B30-11A3-4ED1-9A4F-5DB16B3D07DD}|WebAPI\\WebAPI.csproj|c:\\users\\gian.huallanca\\desktop\\proyectocore\\webapi\\controllers\\cursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B6960B30-11A3-4ED1-9A4F-5DB16B3D07DD}|WebAPI\\WebAPI.csproj|c:\\users\\gian\\desktop\\proyectocore\\webapi\\controllers\\cursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6960B30-11A3-4ED1-9A4F-5DB16B3D07DD}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\cursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{899F2C49-37C5-4A23-A93F-EF6577BD7903}|Aplicacion\\Aplicacion.csproj|c:\\users\\gian.huallanca\\desktop\\proyectocore\\aplicacion\\cursos\\editar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{899F2C49-37C5-4A23-A93F-EF6577BD7903}|Aplicacion\\Aplicacion.csproj|c:\\users\\gian\\desktop\\proyectocore\\aplicacion\\cursos\\editar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{899F2C49-37C5-4A23-A93F-EF6577BD7903}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\cursos\\editar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DF9870C-84F5-4D50-992D-9F57033E9257}|Dominio\\Dominio.csproj|c:\\users\\gian.huallanca\\desktop\\proyectocore\\dominio\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{899F2C49-37C5-4A23-A93F-EF6577BD7903}|Aplicacion\\Aplicacion.csproj|c:\\users\\gian\\desktop\\proyectocore\\aplicacion\\cursos\\nuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899F2C49-37C5-4A23-A93F-EF6577BD7903}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\cursos\\nuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF9870C-84F5-4D50-992D-9F57033E9257}|Dominio\\Dominio.csproj|c:\\users\\gian\\desktop\\proyectocore\\dominio\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DF9870C-84F5-4D50-992D-9F57033E9257}|Dominio\\Dominio.csproj|solutionrelative:dominio\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{899F2C49-37C5-4A23-A93F-EF6577BD7903}|Aplicacion\\Aplicacion.csproj|c:\\users\\gian.huallanca\\desktop\\proyectocore\\aplicacion\\cursos\\nuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{899F2C49-37C5-4A23-A93F-EF6577BD7903}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\cursos\\nuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6960B30-11A3-4ED1-9A4F-5DB16B3D07DD}|WebAPI\\WebAPI.csproj|c:\\users\\gian\\desktop\\proyectocore\\webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6960B30-11A3-4ED1-9A4F-5DB16B3D07DD}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,64 +43,67 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Eliminar.cs",
-              "DocumentMoniker": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Aplicacion\\Cursos\\Eliminar.cs",
-              "RelativeDocumentMoniker": "Aplicacion\\Cursos\\Eliminar.cs",
-              "ToolTip": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Aplicacion\\Cursos\\Eliminar.cs",
-              "RelativeToolTip": "Aplicacion\\Cursos\\Eliminar.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAgwBwAAAAhAAAA",
+              "Title": "CursosController.cs",
+              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\WebAPI\\Controllers\\CursosController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\CursosController.cs",
+              "ToolTip": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\WebAPI\\Controllers\\CursosController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\CursosController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T01:53:55.51Z",
+              "WhenOpened": "2024-10-12T00:37:16.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Editar.cs",
+              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Aplicacion\\Cursos\\Editar.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\Cursos\\Editar.cs",
+              "ToolTip": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Aplicacion\\Cursos\\Editar.cs",
+              "RelativeToolTip": "Aplicacion\\Cursos\\Editar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T00:32:01.116Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Curso.cs",
-              "DocumentMoniker": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Dominio\\Curso.cs",
+              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\Curso.cs",
               "RelativeDocumentMoniker": "Dominio\\Curso.cs",
-              "ToolTip": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Dominio\\Curso.cs",
+              "ToolTip": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\Curso.cs",
               "RelativeToolTip": "Dominio\\Curso.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T02:05:03.751Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Editar.cs",
-              "DocumentMoniker": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Aplicacion\\Cursos\\Editar.cs",
-              "RelativeDocumentMoniker": "Aplicacion\\Cursos\\Editar.cs",
-              "ToolTip": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Aplicacion\\Cursos\\Editar.cs",
-              "RelativeToolTip": "Aplicacion\\Cursos\\Editar.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBAAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T02:03:26.326Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CursosController.cs",
-              "DocumentMoniker": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\WebAPI\\Controllers\\CursosController.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Controllers\\CursosController.cs",
-              "ToolTip": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\WebAPI\\Controllers\\CursosController.cs",
-              "RelativeToolTip": "WebAPI\\Controllers\\CursosController.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAwwDQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T01:55:26.133Z",
+              "WhenOpened": "2024-10-12T00:29:20.42Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Nuevo.cs",
-              "DocumentMoniker": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Aplicacion\\Cursos\\Nuevo.cs",
-              "RelativeDocumentMoniker": "Aplicacion\\Cursos\\Nuevo.cs",
-              "ToolTip": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Aplicacion\\Cursos\\Nuevo.cs",
-              "RelativeToolTip": "Aplicacion\\Cursos\\Nuevo.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAwCsAAAANAAAA",
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\WebAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Startup.cs",
+              "ToolTip": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\WebAPI\\Startup.cs",
+              "RelativeToolTip": "WebAPI\\Startup.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T01:47:03.4Z"
+              "WhenOpened": "2024-10-12T00:15:28.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nuevo.cs",
+              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Aplicacion\\Cursos\\Nuevo.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\Cursos\\Nuevo.cs",
+              "ToolTip": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Aplicacion\\Cursos\\Nuevo.cs",
+              "RelativeToolTip": "Aplicacion\\Cursos\\Nuevo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T01:47:03.4Z",
+              "EditorCaption": ""
             }
           ]
         }

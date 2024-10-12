@@ -13,6 +13,7 @@ using Microsoft.EntityFrameworkCore;
 using Dominio;
 using MediatR;
 using Aplicacion.Cursos;
+using FluentValidation.AspNetCore;
 
 namespace WebAPI
 {
@@ -35,7 +36,8 @@ namespace WebAPI
 
             services.AddMediatR(typeof(Consulta.Manejador).Assembly);
 
-            services.AddControllersWithViews();
+            // Se agrego el Fluent Validation para que trabajen lo controllers con una validacion 
+            services.AddControllersWithViews().AddFluentValidation( cfg => cfg.RegisterValidatorsFromAssemblyContaining<Nuevo>());
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 using Dominio;
+using FluentValidation;
 using MediatR;
 using Persistencia;
 
@@ -17,6 +18,17 @@ namespace Aplicacion.Cursos
             public DateTime FechaPublicacion {get;set;}
             public byte[] FotoPortada{get;set;}
         }
+
+        public class EjecutaValidacion : AbstractValidator<Ejecuta>{
+            // Regla de validacion para el titulo
+            public EjecutaValidacion()
+            {
+                RuleFor(x => x.Titulo).NotEmpty();
+                RuleFor(x => x.Descripcion).NotEmpty();
+                RuleFor(x => x.FechaPublicacion).NotEmpty();
+            }
+        }
+
 
         public class Manejador : IRequestHandler<Ejecuta>
         {
