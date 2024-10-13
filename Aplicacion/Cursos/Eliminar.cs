@@ -1,7 +1,9 @@
-﻿using MediatR;
+﻿using Aplicacion.ManejadorError;
+using MediatR;
 using Persistencia;
 using System;
 using System.Collections.Generic;
+using System.Net;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
@@ -28,7 +30,10 @@ namespace Aplicacion.Cursos
                 var curso = await _context.Curso.FindAsync(request.Id);
                 if(curso == null)
                 {
-                    throw new Exception("No se puede eliminar curso");
+                    //throw new Exception("No se puede eliminar curso");
+
+                    // Aqui va devolver un status de error y tambien va enviar un mensaje 
+                    throw new ManejadorExcepcion(HttpStatusCode.NotFound, new { mensaje = "No se encontro el curso" });
                 }
                 _context.Remove(curso);
 

@@ -14,6 +14,7 @@ using Dominio;
 using MediatR;
 using Aplicacion.Cursos;
 using FluentValidation.AspNetCore;
+using WebAPI.Middleware;
 
 namespace WebAPI
 {
@@ -43,9 +44,13 @@ namespace WebAPI
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
+
+            app.UseMiddleware<ManejadorErrorMiddleware>();
+
             if (env.IsDevelopment())
             {
-                app.UseDeveloperExceptionPage();
+                // Con este servicio podemos ver las excepciones cuando ejecutamos postman 
+                //app.UseDeveloperExceptionPage();
             }
             else
             {

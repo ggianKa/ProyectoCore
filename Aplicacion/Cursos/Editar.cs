@@ -1,7 +1,9 @@
-﻿using FluentValidation;
+﻿using Aplicacion.ManejadorError;
+using FluentValidation;
 using MediatR;
 using Persistencia;
 using System;
+using System.Net;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -51,8 +53,10 @@ namespace Aplicacion.Cursos
                 // Verifica si el curso existe
                 if (curso == null)
                 {
-                    throw new Exception("El curso no existe");
+                    // Aqui va devolver un status de error y tambien va enviar un mensaje 
+                    throw new ManejadorExcepcion(HttpStatusCode.NotFound, new { mensaje = "No se encontro el curso" });
                 }
+
 
                 // Actualiza las propiedades del curso solo si se han proporcionado nuevos valores
                 curso.Titulo = request.Titulo ?? curso.Titulo;
