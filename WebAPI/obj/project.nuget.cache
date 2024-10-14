@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4lMC9GXYgMo=",
+  "dgSpecHash": "GGG+lEz3Dvj7shdlfijGo/D3G8pDiVOPmXbFmsm7YStPS5sDOEZmPnqK/Om6lvMhUrbcq/Y7Kg0Bm2NisbrxpA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
@@ -149,26 +149,5 @@
     "C:\\Users\\Gian\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Gian\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1902",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "El paquete \"Microsoft.AspNetCore.Authentication.JwtBearer\" 3.1.1 tiene una vulnerabilidad de gravedad moderada conocida, https://github.com/advisories/GHSA-q7cg-43mg-qp69",
-      "libraryId": "Microsoft.AspNetCore.Authentication.JwtBearer",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    },
-    {
-      "code": "NU1903",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "El paquete \"Newtonsoft.Json\" 12.0.3 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
-      "libraryId": "Newtonsoft.Json",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  "logs": []
 }

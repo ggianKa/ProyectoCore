@@ -1,12 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\Aplicacion",
-    "\\Aplicacion\\Cursos",
-    "\\Dominio",
-    "\\Persistencia",
-    "\\WebAPI",
-    "\\WebAPI\\Controllers"
+    ""
   ],
   "SelectedNode": "\\ProyectoCore.sln",
   "PreviewInSolutionExplorer": false

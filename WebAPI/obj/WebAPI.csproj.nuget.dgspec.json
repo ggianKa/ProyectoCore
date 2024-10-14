@@ -26,7 +26,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
               "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\Dominio.csproj": {
                 "projectPath": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\Dominio.csproj"
@@ -41,16 +40,10 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
@@ -113,7 +106,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -121,16 +113,10 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
@@ -181,7 +167,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
               "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\Dominio.csproj": {
                 "projectPath": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\Dominio.csproj"
@@ -193,16 +178,10 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Dapper": {
               "target": "Package",
@@ -265,7 +244,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
               "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Aplicacion\\Aplicacion.csproj": {
                 "projectPath": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Aplicacion\\Aplicacion.csproj"
@@ -277,16 +255,10 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",

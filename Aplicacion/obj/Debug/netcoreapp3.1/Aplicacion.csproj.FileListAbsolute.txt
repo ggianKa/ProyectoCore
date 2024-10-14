@@ -22,8 +22,6 @@ C:\Users\Gian\Desktop\ProyectoCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion
 C:\Users\Gian\Desktop\ProyectoCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.AssemblyInfo.cs
 C:\Users\Gian\Desktop\ProyectoCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.dll
 C:\Users\Gian\Desktop\ProyectoCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.pdb
-C:\Users\Gian\Desktop\ProyectoCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.csproj.AssemblyReference.cache
-C:\Users\Gian\Desktop\ProyectoCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.csproj.Up2Date
 C:\Users\gian.huallanca\Desktop\ProyectoCore1\Aplicacion\bin\Debug\netcoreapp3.1\Aplicacion.deps.json
 C:\Users\gian.huallanca\Desktop\ProyectoCore1\Aplicacion\bin\Debug\netcoreapp3.1\Aplicacion.dll
 C:\Users\gian.huallanca\Desktop\ProyectoCore1\Aplicacion\bin\Debug\netcoreapp3.1\Aplicacion.pdb
@@ -40,3 +38,5 @@ C:\Users\gian.huallanca\Desktop\ProyectoCore1\Aplicacion\obj\Debug\netcoreapp3.1
 C:\Users\gian.huallanca\Desktop\ProyectoCore1\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.pdb
 C:\Users\gian.huallanca\Desktop\ProyectoCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.csproj.AssemblyReference.cache
 C:\Users\gian.huallanca\Desktop\ProyectoCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.csproj.Up2Date
+C:\Users\Gian\Desktop\ProyectoCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.csprojAssemblyReference.cache
+C:\Users\Gian\Desktop\ProyectoCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.csproj.CopyComplete

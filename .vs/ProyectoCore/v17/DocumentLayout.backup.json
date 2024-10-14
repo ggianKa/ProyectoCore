@@ -3,36 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{899F2C49-37C5-4A23-A93F-EF6577BD7903}|Aplicacion\\Aplicacion.csproj|c:\\users\\gian\\desktop\\proyectocore\\aplicacion\\cursos\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{899F2C49-37C5-4A23-A93F-EF6577BD7903}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\cursos\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DF9870C-84F5-4D50-992D-9F57033E9257}|Dominio\\Dominio.csproj|c:\\users\\gian\\desktop\\proyectocore\\dominio\\precio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DF9870C-84F5-4D50-992D-9F57033E9257}|Dominio\\Dominio.csproj|solutionrelative:dominio\\precio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{899F2C49-37C5-4A23-A93F-EF6577BD7903}|Aplicacion\\Aplicacion.csproj|c:\\users\\gian\\desktop\\proyectocore\\aplicacion\\cursos\\consultaid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{899F2C49-37C5-4A23-A93F-EF6577BD7903}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\cursos\\consultaid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DF9870C-84F5-4D50-992D-9F57033E9257}|Dominio\\Dominio.csproj|c:\\users\\gian\\desktop\\proyectocore\\dominio\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DF9870C-84F5-4D50-992D-9F57033E9257}|Dominio\\Dominio.csproj|solutionrelative:dominio\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{899F2C49-37C5-4A23-A93F-EF6577BD7903}|Aplicacion\\Aplicacion.csproj|c:\\users\\gian\\desktop\\proyectocore\\aplicacion\\cursos\\editar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{899F2C49-37C5-4A23-A93F-EF6577BD7903}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\cursos\\editar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DF9870C-84F5-4D50-992D-9F57033E9257}|Dominio\\Dominio.csproj|c:\\users\\gian\\desktop\\proyectocore\\dominio\\cursoinstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DF9870C-84F5-4D50-992D-9F57033E9257}|Dominio\\Dominio.csproj|solutionrelative:dominio\\cursoinstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{899F2C49-37C5-4A23-A93F-EF6577BD7903}|Aplicacion\\Aplicacion.csproj|c:\\users\\gian\\desktop\\proyectocore\\aplicacion\\cursos\\eliminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{899F2C49-37C5-4A23-A93F-EF6577BD7903}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\cursos\\eliminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DF9870C-84F5-4D50-992D-9F57033E9257}|Dominio\\Dominio.csproj|c:\\users\\gian\\desktop\\proyectocore\\dominio\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DF9870C-84F5-4D50-992D-9F57033E9257}|Dominio\\Dominio.csproj|solutionrelative:dominio\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6960B30-11A3-4ED1-9A4F-5DB16B3D07DD}|WebAPI\\WebAPI.csproj|c:\\users\\gian\\desktop\\proyectocore\\webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6960B30-11A3-4ED1-9A4F-5DB16B3D07DD}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{899F2C49-37C5-4A23-A93F-EF6577BD7903}|Aplicacion\\Aplicacion.csproj|c:\\users\\gian\\desktop\\proyectocore\\aplicacion\\manejadorerror\\manejadorexcepcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{899F2C49-37C5-4A23-A93F-EF6577BD7903}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\manejadorerror\\manejadorexcepcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6960B30-11A3-4ED1-9A4F-5DB16B3D07DD}|WebAPI\\WebAPI.csproj|c:\\users\\gian\\desktop\\proyectocore\\webapi\\middleware\\manejadorerrormiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6960B30-11A3-4ED1-9A4F-5DB16B3D07DD}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\middleware\\manejadorerrormiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{899F2C49-37C5-4A23-A93F-EF6577BD7903}|Aplicacion\\Aplicacion.csproj|c:\\users\\gian\\desktop\\proyectocore\\aplicacion\\cursos\\nuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{899F2C49-37C5-4A23-A93F-EF6577BD7903}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\cursos\\nuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DF9870C-84F5-4D50-992D-9F57033E9257}|Dominio\\Dominio.csproj|c:\\users\\gian\\desktop\\proyectocore\\dominio\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DF9870C-84F5-4D50-992D-9F57033E9257}|Dominio\\Dominio.csproj|solutionrelative:dominio\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,8 +30,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Precio.cs",
+              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\Precio.cs",
+              "RelativeDocumentMoniker": "Dominio\\Precio.cs",
+              "ToolTip": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\Precio.cs",
+              "RelativeToolTip": "Dominio\\Precio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T06:55:47.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\Instructor.cs",
+              "RelativeDocumentMoniker": "Dominio\\Instructor.cs",
+              "ToolTip": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\Instructor.cs",
+              "RelativeToolTip": "Dominio\\Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T06:55:14.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CursoInstructor.cs",
+              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\CursoInstructor.cs",
+              "RelativeDocumentMoniker": "Dominio\\CursoInstructor.cs",
+              "ToolTip": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\CursoInstructor.cs",
+              "RelativeToolTip": "Dominio\\CursoInstructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T06:55:14.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\Curso.cs",
+              "RelativeDocumentMoniker": "Dominio\\Curso.cs",
+              "ToolTip": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\Curso.cs",
+              "RelativeToolTip": "Dominio\\Curso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T06:55:03.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Comentario.cs",
+              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\Comentario.cs",
+              "RelativeDocumentMoniker": "Dominio\\Comentario.cs",
+              "ToolTip": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\Comentario.cs",
+              "RelativeToolTip": "Dominio\\Comentario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T06:54:15.401Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -51,110 +104,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Consulta.cs",
-              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Aplicacion\\Cursos\\Consulta.cs",
-              "RelativeDocumentMoniker": "Aplicacion\\Cursos\\Consulta.cs",
-              "ToolTip": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Aplicacion\\Cursos\\Consulta.cs",
-              "RelativeToolTip": "Aplicacion\\Cursos\\Consulta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T00:47:05.921Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ConsultaId.cs",
-              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Aplicacion\\Cursos\\ConsultaId.cs",
-              "RelativeDocumentMoniker": "Aplicacion\\Cursos\\ConsultaId.cs",
-              "ToolTip": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Aplicacion\\Cursos\\ConsultaId.cs",
-              "RelativeToolTip": "Aplicacion\\Cursos\\ConsultaId.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T00:46:32.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Editar.cs",
-              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Aplicacion\\Cursos\\Editar.cs",
-              "RelativeDocumentMoniker": "Aplicacion\\Cursos\\Editar.cs",
-              "ToolTip": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Aplicacion\\Cursos\\Editar.cs",
-              "RelativeToolTip": "Aplicacion\\Cursos\\Editar.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAADUAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T00:45:27.129Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Eliminar.cs",
-              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Aplicacion\\Cursos\\Eliminar.cs",
-              "RelativeDocumentMoniker": "Aplicacion\\Cursos\\Eliminar.cs",
-              "ToolTip": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Aplicacion\\Cursos\\Eliminar.cs",
-              "RelativeToolTip": "Aplicacion\\Cursos\\Eliminar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T22:16:24.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\WebAPI\\Startup.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Startup.cs",
-              "ToolTip": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\WebAPI\\Startup.cs",
-              "RelativeToolTip": "WebAPI\\Startup.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T22:13:22.427Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ManejadorExcepcion.cs",
-              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Aplicacion\\ManejadorError\\ManejadorExcepcion.cs",
-              "RelativeDocumentMoniker": "Aplicacion\\ManejadorError\\ManejadorExcepcion.cs",
-              "ToolTip": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Aplicacion\\ManejadorError\\ManejadorExcepcion.cs",
-              "RelativeToolTip": "Aplicacion\\ManejadorError\\ManejadorExcepcion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T21:43:36.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ManejadorErrorMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\WebAPI\\Middleware\\ManejadorErrorMiddleware.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Middleware\\ManejadorErrorMiddleware.cs",
-              "ToolTip": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\WebAPI\\Middleware\\ManejadorErrorMiddleware.cs",
-              "RelativeToolTip": "WebAPI\\Middleware\\ManejadorErrorMiddleware.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T21:36:44.17Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Nuevo.cs",
-              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Aplicacion\\Cursos\\Nuevo.cs",
-              "RelativeDocumentMoniker": "Aplicacion\\Cursos\\Nuevo.cs",
-              "ToolTip": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Aplicacion\\Cursos\\Nuevo.cs",
-              "RelativeToolTip": "Aplicacion\\Cursos\\Nuevo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T01:47:03.4Z",
-              "EditorCaption": ""
             }
           ]
         }

@@ -198,8 +198,6 @@ C:\Users\Gian\Desktop\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\staticwebasset
 C:\Users\Gian\Desktop\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
 C:\Users\Gian\Desktop\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
 C:\Users\Gian\Desktop\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
-C:\Users\Gian\Desktop\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache
-C:\Users\Gian\Desktop\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.Up2Date
 C:\Users\gian.huallanca\Desktop\ProyectoCore1\WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\gian.huallanca\Desktop\ProyectoCore1\WebApi\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\gian.huallanca\Desktop\ProyectoCore1\WebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -304,3 +302,5 @@ C:\Users\gian.huallanca\Desktop\ProyectoCore1\WebApi\obj\Debug\netcoreapp3.1\Web
 C:\Users\gian.huallanca\Desktop\ProyectoCore1\WebApi\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
 C:\Users\gian.huallanca\Desktop\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache
 C:\Users\gian.huallanca\Desktop\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.Up2Date
+C:\Users\Gian\Desktop\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+C:\Users\Gian\Desktop\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
