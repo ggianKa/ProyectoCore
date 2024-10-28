@@ -115,10 +115,10 @@ namespace Persistencia.Migrations
                         .HasColumnType("uniqueidentifier");
 
                     b.Property<decimal>("PrecioActual")
-                        .HasColumnType("decimal(18,4");
+                        .HasColumnType("decimal(18,4)");
 
                     b.Property<decimal>("Promocion")
-                        .HasColumnType("decimal(18,4");
+                        .HasColumnType("decimal(18,4)");
 
                     b.HasKey("PrecioId");
 

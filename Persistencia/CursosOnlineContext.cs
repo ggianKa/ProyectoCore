@@ -15,6 +15,7 @@ namespace Persistencia
         }
 
 
+
         protected override void OnModelCreating(ModelBuilder modelBuilder){
             //Indicar que tiene una clave primaria compuesta 
             base.OnModelCreating(modelBuilder);

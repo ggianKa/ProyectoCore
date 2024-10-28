@@ -209,8 +209,8 @@ namespace Persistencia.Migrations
                 columns: table => new
                 {
                     PrecioId = table.Column<Guid>(nullable: false),
-                    PrecioActual = table.Column<decimal>(type: "decimal(18,4", nullable: false),
-                    Promocion = table.Column<decimal>(type: "decimal(18,4", nullable: false),
+                    PrecioActual = table.Column<decimal>(type: "decimal(18,4)", nullable: false),
+                    Promocion = table.Column<decimal>(type: "decimal(18,4)", nullable: false),
                     CursoId = table.Column<Guid>(nullable: false)
                 },
                 constraints: table =>

@@ -10,7 +10,7 @@ using Persistencia;
 namespace Persistencia.Migrations
 {
     [DbContext(typeof(CursosOnlineContext))]
-    [Migration("20241014052958_IdentityCoreInicial")]
+    [Migration("20241028044720_IdentityCoreInicial")]
     partial class IdentityCoreInicial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -117,10 +117,10 @@ namespace Persistencia.Migrations
                         .HasColumnType("uniqueidentifier");
 
                     b.Property<decimal>("PrecioActual")
-                        .HasColumnType("decimal(18,4");
+                        .HasColumnType("decimal(18,4)");
 
                     b.Property<decimal>("Promocion")
-                        .HasColumnType("decimal(18,4");
+                        .HasColumnType("decimal(18,4)");
 
                     b.HasKey("PrecioId");
 
