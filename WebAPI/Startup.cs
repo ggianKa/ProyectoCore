@@ -15,6 +15,9 @@ using MediatR;
 using Aplicacion.Cursos;
 using FluentValidation.AspNetCore;
 using WebAPI.Middleware;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.Extensions.DependencyInjection.Extensions;
+using Microsoft.AspNetCore.Authentication;
 
 namespace WebAPI
 {
@@ -39,6 +42,21 @@ namespace WebAPI
 
             // Se agrego el Fluent Validation para que trabajen lo controllers con una validacion 
             services.AddControllersWithViews().AddFluentValidation( cfg => cfg.RegisterValidatorsFromAssemblyContaining<Nuevo>());
+
+            // Configura los servicios de autenticación de Identity para la entidad Usuario
+            var builder = services.AddIdentityCore<Usuario>();
+
+            // Crea un IdentityBuilder para configurar la identidad de forma más detallada
+            var identityBuilder = new IdentityBuilder(builder.UserType, builder.Services);
+
+            // Agrega el soporte para almacenamiento de la identidad usando Entity Framework Core
+            // y especifica CursosOnlineContext como el contexto de base de datos
+            identityBuilder.AddEntityFrameworkStores<CursosOnlineContext>();
+
+            // Registra el servicio SignInManager, que proporciona métodos para la autenticación de usuarios
+            identityBuilder.AddSignInManager<SignInManager<Usuario>>();
+
+            services.TryAddSingleton<ISystemClock, SystemClock>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
