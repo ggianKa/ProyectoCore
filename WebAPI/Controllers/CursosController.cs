@@ -14,22 +14,14 @@ namespace WebAPI.Controllers
     [Route("api/[controller]")]
     [ApiController]
    
-    public class CursosController : ControllerBase
+    public class CursosController : MiControllerBase
     {
-        private readonly IMediator _mediator;
-
-        // Constructor que recibe una instancia de IMediator, utilizada para manejar las operaciones
-        // sin que el controlador tenga que implementar la lógica de negocio directamente.
-        public CursosController(IMediator mediator)
-        {
-            _mediator = mediator;
-        }
 
         // Obtiene una lista de objetos cursos
         [HttpGet]
         public async Task<ActionResult<List<Curso>>> Get()
         {
-            return await _mediator.Send(new Consulta.ListaCursos());
+            return await Mediator.Send(new Consulta.ListaCursos());
         }
 
         // Obtiene el detalle de un curso específico, dado su Id
@@ -39,7 +31,7 @@ namespace WebAPI.Controllers
         public async Task<ActionResult<Curso>> Detalle(int id)
         {
             // Envía una solicitud para obtener el curso con el ID proporcionado
-            return await _mediator.Send(new ConsultaId.CursoUnico { Id = id });
+            return await Mediator.Send(new ConsultaId.CursoUnico { Id = id });
         }
 
         // Crea un nuevo curso en la base de datos, los datos estan encapsulados en el objeto Nuevo.Ejecuta
@@ -48,7 +40,7 @@ namespace WebAPI.Controllers
         public async Task<ActionResult<Unit>> Crear(Nuevo.Ejecuta data)
         {
             // Envia una solicitud para crear un nuevo curso utilizando los datos proporcionados
-            return await _mediator.Send(data);
+            return await Mediator.Send(data);
         }
 
         // Endpoint PUT para editar un curso existente.
@@ -57,13 +49,13 @@ namespace WebAPI.Controllers
         public async Task<ActionResult<Unit>> Editar(int id, Editar.Ejecuta data)
         {
             data.CursoId = id;
-            return await _mediator.Send(data);
+            return await Mediator.Send(data);
         }
 
         [HttpDelete("{id}")]
         public async Task<ActionResult<Unit>> Eliminar(int id)
         {
-            return await _mediator.Send(new Eliminar.Ejecuta { Id = id });
+            return await Mediator.Send(new Eliminar.Ejecuta { Id = id });
         }
     }
 }

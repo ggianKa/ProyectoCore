@@ -3,48 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{899F2C49-37C5-4A23-A93F-EF6577BD7903}|Aplicacion\\Aplicacion.csproj|c:\\users\\gian.huallanca\\desktop\\proyectocore\\proyectocore\\aplicacion\\seguridad\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{899F2C49-37C5-4A23-A93F-EF6577BD7903}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\seguridad\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Aplicacion\\Seguridad\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aplicacion\\Seguridad\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6960B30-11A3-4ED1-9A4F-5DB16B3D07DD}|WebAPI\\WebAPI.csproj|c:\\users\\gian.huallanca\\desktop\\proyectocore\\proyectocore\\webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6960B30-11A3-4ED1-9A4F-5DB16B3D07DD}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\WebAPI\\Controllers\\UsuarioController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebAPI\\Controllers\\UsuarioController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6960B30-11A3-4ED1-9A4F-5DB16B3D07DD}|WebAPI\\WebAPI.csproj|c:\\users\\gian.huallanca\\desktop\\proyectocore\\proyectocore\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6960B30-11A3-4ED1-9A4F-5DB16B3D07DD}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\WebAPI\\Controllers\\CursosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebAPI\\Controllers\\CursosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61EC32EE-2767-41B4-B891-534A7EA8A469}|Persistencia\\Persistencia.csproj|c:\\users\\gian.huallanca\\desktop\\proyectocore\\proyectocore\\persistencia\\dataprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61EC32EE-2767-41B4-B891-534A7EA8A469}|Persistencia\\Persistencia.csproj|solutionrelative:persistencia\\dataprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\WebAPI\\Controllers\\MiControllerBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebAPI\\Controllers\\MiControllerBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DF9870C-84F5-4D50-992D-9F57033E9257}|Dominio\\Dominio.csproj|c:\\users\\gian.huallanca\\desktop\\proyectocore\\proyectocore\\dominio\\precio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DF9870C-84F5-4D50-992D-9F57033E9257}|Dominio\\Dominio.csproj|solutionrelative:dominio\\precio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61EC32EE-2767-41B4-B891-534A7EA8A469}|Persistencia\\Persistencia.csproj|c:\\users\\gian.huallanca\\desktop\\proyectocore\\proyectocore\\persistencia\\cursosonlinecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61EC32EE-2767-41B4-B891-534A7EA8A469}|Persistencia\\Persistencia.csproj|solutionrelative:persistencia\\cursosonlinecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DF9870C-84F5-4D50-992D-9F57033E9257}|Dominio\\Dominio.csproj|c:\\users\\gian.huallanca\\desktop\\proyectocore\\proyectocore\\dominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DF9870C-84F5-4D50-992D-9F57033E9257}|Dominio\\Dominio.csproj|solutionrelative:dominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DF9870C-84F5-4D50-992D-9F57033E9257}|Dominio\\Dominio.csproj|c:\\users\\gian.huallanca\\desktop\\proyectocore\\proyectocore\\dominio\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DF9870C-84F5-4D50-992D-9F57033E9257}|Dominio\\Dominio.csproj|solutionrelative:dominio\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DF9870C-84F5-4D50-992D-9F57033E9257}|Dominio\\Dominio.csproj|c:\\users\\gian.huallanca\\desktop\\proyectocore\\proyectocore\\dominio\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DF9870C-84F5-4D50-992D-9F57033E9257}|Dominio\\Dominio.csproj|solutionrelative:dominio\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DF9870C-84F5-4D50-992D-9F57033E9257}|Dominio\\Dominio.csproj|c:\\users\\gian.huallanca\\desktop\\proyectocore\\proyectocore\\dominio\\cursoinstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DF9870C-84F5-4D50-992D-9F57033E9257}|Dominio\\Dominio.csproj|solutionrelative:dominio\\cursoinstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DF9870C-84F5-4D50-992D-9F57033E9257}|Dominio\\Dominio.csproj|c:\\users\\gian.huallanca\\desktop\\proyectocore\\proyectocore\\dominio\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DF9870C-84F5-4D50-992D-9F57033E9257}|Dominio\\Dominio.csproj|solutionrelative:dominio\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Persistencia\\DataPrueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Persistencia\\DataPrueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,140 +42,64 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Persistencia\\DataPrueba.cs",
+              "RelativeDocumentMoniker": "Persistencia\\DataPrueba.cs",
+              "ToolTip": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Persistencia\\DataPrueba.cs",
+              "RelativeToolTip": "Persistencia\\DataPrueba.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T02:09:39.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\WebAPI\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\WebAPI\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T02:21:25.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MiControllerBase.cs",
+              "DocumentMoniker": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\WebAPI\\Controllers\\MiControllerBase.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\MiControllerBase.cs",
+              "ToolTip": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\WebAPI\\Controllers\\MiControllerBase.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\MiControllerBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T02:10:51.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CursosController.cs",
+              "DocumentMoniker": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\WebAPI\\Controllers\\CursosController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\CursosController.cs",
+              "ToolTip": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\WebAPI\\Controllers\\CursosController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\CursosController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T17:02:58.58Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Aplicacion\\Seguridad\\Login.cs",
               "RelativeDocumentMoniker": "Aplicacion\\Seguridad\\Login.cs",
               "ToolTip": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Aplicacion\\Seguridad\\Login.cs",
               "RelativeToolTip": "Aplicacion\\Seguridad\\Login.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAADEAAAAJAAAA",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAAEAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T01:18:53.968Z",
+              "WhenOpened": "2024-11-06T16:57:30.588Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DataPrueba.cs",
-              "DocumentMoniker": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Persistencia\\DataPrueba.cs",
-              "RelativeDocumentMoniker": "Persistencia\\DataPrueba.cs",
-              "ToolTip": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Persistencia\\DataPrueba.cs",
-              "RelativeToolTip": "Persistencia\\DataPrueba.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T00:15:22.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\WebAPI\\Startup.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Startup.cs",
-              "ToolTip": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\WebAPI\\Startup.cs",
-              "RelativeToolTip": "WebAPI\\Startup.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAwwD4AAABPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T00:09:09.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CursosOnlineContext.cs",
-              "DocumentMoniker": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Persistencia\\CursosOnlineContext.cs",
-              "RelativeDocumentMoniker": "Persistencia\\CursosOnlineContext.cs",
-              "ToolTip": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Persistencia\\CursosOnlineContext.cs",
-              "RelativeToolTip": "Persistencia\\CursosOnlineContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T04:56:11.111Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Dominio\\Usuario.cs",
-              "RelativeDocumentMoniker": "Dominio\\Usuario.cs",
-              "ToolTip": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Dominio\\Usuario.cs",
-              "RelativeToolTip": "Dominio\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T04:53:18.722Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Instructor.cs",
-              "DocumentMoniker": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Dominio\\Instructor.cs",
-              "RelativeDocumentMoniker": "Dominio\\Instructor.cs",
-              "ToolTip": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Dominio\\Instructor.cs",
-              "RelativeToolTip": "Dominio\\Instructor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T06:55:14.325Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Precio.cs",
-              "DocumentMoniker": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Dominio\\Precio.cs",
-              "RelativeDocumentMoniker": "Dominio\\Precio.cs",
-              "ToolTip": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Dominio\\Precio.cs",
-              "RelativeToolTip": "Dominio\\Precio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T04:42:17.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\WebAPI\\Program.cs",
-              "RelativeToolTip": "WebAPI\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T03:56:15.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Comentario.cs",
-              "DocumentMoniker": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Dominio\\Comentario.cs",
-              "RelativeDocumentMoniker": "Dominio\\Comentario.cs",
-              "ToolTip": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Dominio\\Comentario.cs",
-              "RelativeToolTip": "Dominio\\Comentario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T06:54:15.401Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CursoInstructor.cs",
-              "DocumentMoniker": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Dominio\\CursoInstructor.cs",
-              "RelativeDocumentMoniker": "Dominio\\CursoInstructor.cs",
-              "ToolTip": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Dominio\\CursoInstructor.cs",
-              "RelativeToolTip": "Dominio\\CursoInstructor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T06:55:14.586Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Curso.cs",
-              "DocumentMoniker": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Dominio\\Curso.cs",
-              "RelativeDocumentMoniker": "Dominio\\Curso.cs",
-              "ToolTip": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Dominio\\Curso.cs",
-              "RelativeToolTip": "Dominio\\Curso.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T06:55:03.472Z"
             }
           ]
         }

@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Aplicacion",
+    "\\Aplicacion\\Seguridad",
+    "\\Persistencia",
+    "\\WebAPI",
+    "\\WebAPI\\Controllers"
   ],
-  "SelectedNode": "\\ProyectoCore.sln",
+  "SelectedNode": "\\Aplicacion\\Seguridad\\Login.cs",
   "PreviewInSolutionExplorer": false
 }
