@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Persistencia\\Persistencia.csproj": {}
+    "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Persistencia\\Persistencia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Dominio\\Dominio.csproj": {
+    "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Dominio\\Dominio.csproj",
+        "projectPath": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\gian.huallanca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Dominio\\obj\\",
+        "outputPath": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Persistencia\\Persistencia.csproj": {
+    "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Persistencia\\Persistencia.csproj",
+        "projectPath": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Persistencia\\Persistencia.csproj",
         "packagesPath": "C:\\Users\\gian.huallanca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Persistencia\\obj\\",
+        "outputPath": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -96,8 +96,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Dominio\\Dominio.csproj"
+              "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Dominio\\Dominio.csproj"
               }
             }
           }

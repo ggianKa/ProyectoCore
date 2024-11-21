@@ -1,26 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\",
+  "WorkspaceRootPath": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Aplicacion\\Seguridad\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aplicacion\\Seguridad\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6960B30-11A3-4ED1-9A4F-5DB16B3D07DD}|WebAPI\\WebAPI.csproj|c:\\users\\gian.huallanca\\desktop\\proyectocore\\webapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6960B30-11A3-4ED1-9A4F-5DB16B3D07DD}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\WebAPI\\Controllers\\UsuarioController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebAPI\\Controllers\\UsuarioController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\WebAPI\\Controllers\\CursosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebAPI\\Controllers\\CursosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\WebAPI\\Controllers\\MiControllerBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebAPI\\Controllers\\MiControllerBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Persistencia\\DataPrueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Persistencia\\DataPrueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{899F2C49-37C5-4A23-A93F-EF6577BD7903}|Aplicacion\\Aplicacion.csproj|c:\\users\\gian.huallanca\\desktop\\proyectocore\\aplicacion\\seguridad\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899F2C49-37C5-4A23-A93F-EF6577BD7903}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\seguridad\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,63 +30,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DataPrueba.cs",
-              "DocumentMoniker": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Persistencia\\DataPrueba.cs",
-              "RelativeDocumentMoniker": "Persistencia\\DataPrueba.cs",
-              "ToolTip": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Persistencia\\DataPrueba.cs",
-              "RelativeToolTip": "Persistencia\\DataPrueba.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\WebAPI\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\WebAPI\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T02:09:39.077Z"
+              "WhenOpened": "2024-11-07T02:21:25.509Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\WebAPI\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\WebAPI\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "WebAPI\\Controllers\\UsuarioController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T02:21:25.509Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MiControllerBase.cs",
-              "DocumentMoniker": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\WebAPI\\Controllers\\MiControllerBase.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Controllers\\MiControllerBase.cs",
-              "ToolTip": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\WebAPI\\Controllers\\MiControllerBase.cs",
-              "RelativeToolTip": "WebAPI\\Controllers\\MiControllerBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T02:10:51.516Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CursosController.cs",
-              "DocumentMoniker": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\WebAPI\\Controllers\\CursosController.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Controllers\\CursosController.cs",
-              "ToolTip": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\WebAPI\\Controllers\\CursosController.cs",
-              "RelativeToolTip": "WebAPI\\Controllers\\CursosController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T17:02:58.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Aplicacion\\Seguridad\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Aplicacion\\Seguridad\\Login.cs",
               "RelativeDocumentMoniker": "Aplicacion\\Seguridad\\Login.cs",
-              "ToolTip": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Aplicacion\\Seguridad\\Login.cs",
+              "ToolTip": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Aplicacion\\Seguridad\\Login.cs",
               "RelativeToolTip": "Aplicacion\\Seguridad\\Login.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAmwDoAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T16:57:30.588Z",
+              "WhenOpened": "2024-11-21T01:48:04.941Z",
               "EditorCaption": ""
             }
           ]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fPWuc5+iK8iUPAaUz8gbd0x51reFaU9IZ/oJl0JhLUU+Nuc5uZ/I6RFuYBgZake7YyWMLHEdP38pvpqViVHHhA==",
+  "dgSpecHash": "PlFdb+JV0U8ZNPztvuA6OOgECnH6tSBFhxm3DBj/TSzZ4rbPo2ACv80iOFM0dx53qp4hI9dvEiOxyCagNpD7SQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Dominio\\Dominio.csproj",
+  "projectFilePath": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Dominio\\Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gian.huallanca\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.1\\microsoft.aspnetcore.cryptography.internal.3.1.1.nupkg.sha512",
     "C:\\Users\\gian.huallanca\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.1\\microsoft.aspnetcore.cryptography.keyderivation.3.1.1.nupkg.sha512",

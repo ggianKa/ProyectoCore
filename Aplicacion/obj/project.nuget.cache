@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xAXcwtoHfSVpVlOjPeju2ODL9ieho9R7jAD59xOGKqPwXxCDEotR2rZMwiRz6g6RiGDmUHcI3NNndoN4ZIYjpQ==",
+  "dgSpecHash": "NalB60QY7JuA4Lq4qIOnP/OhSnZtXwDLTCybuSb8mdHyMHHOyJVr99hCT4P6ze2I/DGcfjRQ20tPlWskVqOSjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\ProyectoCore\\Aplicacion\\Aplicacion.csproj",
+  "projectFilePath": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Aplicacion\\Aplicacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gian.huallanca\\.nuget\\packages\\automapper\\8.1.1\\automapper.8.1.1.nupkg.sha512",
     "C:\\Users\\gian.huallanca\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.1.1\\automapper.extensions.microsoft.dependencyinjection.6.1.1.nupkg.sha512",

@@ -39,8 +39,6 @@ C:\Users\gian.huallanca\Desktop\ProyectoCore1\Persistencia\obj\Debug\netcoreapp3
 C:\Users\gian.huallanca\Desktop\ProyectoCore1\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.dll
 C:\Users\gian.huallanca\Desktop\ProyectoCore1\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.pdb
 C:\Users\gian.huallanca\Desktop\ProyectoCore1\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.genruntimeconfig.cache
-C:\Users\gian.huallanca\Desktop\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.AssemblyReference.cache
-C:\Users\gian.huallanca\Desktop\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persiste.7F7D6998.Up2Date
 C:\Users\Gian\Desktop\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csprojAssemblyReference.cache
 C:\Users\Gian\Desktop\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.CopyComplete
 C:\Users\gian.huallanca\Desktop\ProyectoCore\ProyectoCore\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.deps.json
@@ -58,3 +56,5 @@ C:\Users\gian.huallanca\Desktop\ProyectoCore\ProyectoCore\Persistencia\obj\Debug
 C:\Users\gian.huallanca\Desktop\ProyectoCore\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.dll
 C:\Users\gian.huallanca\Desktop\ProyectoCore\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.pdb
 C:\Users\gian.huallanca\Desktop\ProyectoCore\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.genruntimeconfig.cache
+C:\Users\gian.huallanca\Desktop\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csprojAssemblyReference.cache
+C:\Users\gian.huallanca\Desktop\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.CopyComplete
