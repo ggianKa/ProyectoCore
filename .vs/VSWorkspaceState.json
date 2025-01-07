@@ -1,12 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Aplicacion",
-    "\\Aplicacion\\Seguridad",
-    "\\Persistencia",
-    "\\WebAPI",
-    "\\WebAPI\\Controllers"
+    "\\Dominio",
+    "\\Seguridad",
+    "\\Seguridad\\obj"
   ],
-  "SelectedNode": "\\ProyectoCore.sln",
+  "SelectedNode": "\\Dominio\\Precio.cs",
   "PreviewInSolutionExplorer": false
 }

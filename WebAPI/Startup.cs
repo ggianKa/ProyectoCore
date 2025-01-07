@@ -18,6 +18,13 @@ using WebAPI.Middleware;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 using Microsoft.AspNetCore.Authentication;
+using Aplicacion.Contratos;
+using Seguridad.TokenSeguridad;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc.Authorization;
 
 namespace WebAPI
 {
@@ -41,7 +48,11 @@ namespace WebAPI
             services.AddMediatR(typeof(Consulta.Manejador).Assembly);
 
             // Se agrego el Fluent Validation para que trabajen lo controllers con una validacion 
-            services.AddControllersWithViews().AddFluentValidation( cfg => cfg.RegisterValidatorsFromAssemblyContaining<Nuevo>());
+            services.AddControllersWithViews(opt => {
+                var policy = new AuthorizationPolicyBuilder().RequireAuthenticatedUser().Build();
+                opt.Filters.Add(new AuthorizeFilter(policy));
+            })
+            .AddFluentValidation( cfg => cfg.RegisterValidatorsFromAssemblyContaining<Nuevo>());
 
             // Configura los servicios de autenticación de Identity para la entidad Usuario
             var builder = services.AddIdentityCore<Usuario>();
@@ -57,6 +68,20 @@ namespace WebAPI
             identityBuilder.AddSignInManager<SignInManager<Usuario>>();
 
             services.TryAddSingleton<ISystemClock, SystemClock>();
+
+            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("Mi palabra secreta"));
+
+            services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(opt => {
+                opt.TokenValidationParameters = new TokenValidationParameters{
+                    ValidateIssuerSigningKey = true,
+                    IssuerSigningKey = key,
+                    ValidateAudience = false,
+                    ValidateIssuer = false
+                };
+            });
+            
+            services.AddScoped<IJwtGenerador, JwtGenerador>();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -78,6 +103,7 @@ namespace WebAPI
             }
 
             //app.UseHttpsRedirection();
+            app.UseAuthentication();
 
             app.UseStaticFiles();
 

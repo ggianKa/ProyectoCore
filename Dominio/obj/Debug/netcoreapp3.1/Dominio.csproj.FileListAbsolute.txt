@@ -34,3 +34,14 @@ C:\Users\gian.huallanca\Desktop\ProyectoCore\ProyectoCore\Dominio\obj\Debug\netc
 C:\Users\gian.huallanca\Desktop\ProyectoCore\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
 C:\Users\gian.huallanca\Desktop\ProyectoCore\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
 C:\Users\gian.huallanca\Desktop\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.csprojAssemblyReference.cache
+G:\Escritorio\ProyectoCore\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+G:\Escritorio\ProyectoCore\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+G:\Escritorio\ProyectoCore\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+G:\Escritorio\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+G:\Escritorio\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+G:\Escritorio\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+G:\Escritorio\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+G:\Escritorio\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+G:\Escritorio\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.sourcelink.json
+G:\Escritorio\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+G:\Escritorio\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb

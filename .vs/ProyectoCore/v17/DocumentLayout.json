@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\",
+  "WorkspaceRootPath": "G:\\Escritorio\\ProyectoCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6960B30-11A3-4ED1-9A4F-5DB16B3D07DD}|WebAPI\\WebAPI.csproj|c:\\users\\gian.huallanca\\desktop\\proyectocore\\webapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6960B30-11A3-4ED1-9A4F-5DB16B3D07DD}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Escritorio\\ProyectoCore\\Dominio\\Precio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dominio\\Precio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{899F2C49-37C5-4A23-A93F-EF6577BD7903}|Aplicacion\\Aplicacion.csproj|c:\\users\\gian.huallanca\\desktop\\proyectocore\\aplicacion\\seguridad\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{899F2C49-37C5-4A23-A93F-EF6577BD7903}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\seguridad\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Escritorio\\ProyectoCore\\Dominio\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dominio\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Escritorio\\ProyectoCore\\Persistencia\\DataPrueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Persistencia\\DataPrueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Escritorio\\ProyectoCore\\Persistencia\\CursosOnlineContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Persistencia\\CursosOnlineContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,28 +39,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\WebAPI\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\WebAPI\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "WebAPI\\Controllers\\UsuarioController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Title": "Precio.cs",
+              "DocumentMoniker": "G:\\Escritorio\\ProyectoCore\\Dominio\\Precio.cs",
+              "RelativeDocumentMoniker": "Dominio\\Precio.cs",
+              "ToolTip": "G:\\Escritorio\\ProyectoCore\\Dominio\\Precio.cs",
+              "RelativeToolTip": "Dominio\\Precio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T02:21:25.509Z",
+              "WhenOpened": "2025-01-02T21:08:31.285Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Aplicacion\\Seguridad\\Login.cs",
-              "RelativeDocumentMoniker": "Aplicacion\\Seguridad\\Login.cs",
-              "ToolTip": "C:\\Users\\gian.huallanca\\Desktop\\ProyectoCore\\Aplicacion\\Seguridad\\Login.cs",
-              "RelativeToolTip": "Aplicacion\\Seguridad\\Login.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAmwDoAAAA+AAAA",
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "G:\\Escritorio\\ProyectoCore\\Dominio\\Usuario.cs",
+              "RelativeDocumentMoniker": "Dominio\\Usuario.cs",
+              "ToolTip": "G:\\Escritorio\\ProyectoCore\\Dominio\\Usuario.cs",
+              "RelativeToolTip": "Dominio\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T01:48:04.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T21:08:29.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataPrueba.cs",
+              "DocumentMoniker": "G:\\Escritorio\\ProyectoCore\\Persistencia\\DataPrueba.cs",
+              "RelativeDocumentMoniker": "Persistencia\\DataPrueba.cs",
+              "ToolTip": "G:\\Escritorio\\ProyectoCore\\Persistencia\\DataPrueba.cs",
+              "RelativeToolTip": "Persistencia\\DataPrueba.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T21:08:20.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CursosOnlineContext.cs",
+              "DocumentMoniker": "G:\\Escritorio\\ProyectoCore\\Persistencia\\CursosOnlineContext.cs",
+              "RelativeDocumentMoniker": "Persistencia\\CursosOnlineContext.cs",
+              "ToolTip": "G:\\Escritorio\\ProyectoCore\\Persistencia\\CursosOnlineContext.cs",
+              "RelativeToolTip": "Persistencia\\CursosOnlineContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T21:08:18.108Z"
             }
           ]
         }
