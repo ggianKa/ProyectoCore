@@ -4,6 +4,7 @@ using iTextSharp.text;
 using MediatR;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
@@ -20,7 +21,7 @@ namespace WebAPI.Controllers
 
         // Obtiene una lista de objetos cursos
         [HttpGet]
-        public async Task<ActionResult<List<Curso>>> Get()
+        public async Task<ActionResult<List<CursoDto>>> Get()
         {
             return await Mediator.Send(new Consulta.ListaCursos());
         }
@@ -29,7 +30,7 @@ namespace WebAPI.Controllers
         // http://localhost:5000/api/Cursos/{id}
         // http://localhost:5000/api/Cursos/1
         [HttpGet("{id}")]
-        public async Task<ActionResult<Curso>> Detalle(int id)
+        public async Task<ActionResult<CursoDto>> Detalle(Guid id)
         {
             // Envía una solicitud para obtener el curso con el ID proporcionado
             return await Mediator.Send(new ConsultaId.CursoUnico { Id = id });
@@ -47,14 +48,14 @@ namespace WebAPI.Controllers
         // Endpoint PUT para editar un curso existente.
         // El ID del curso se pasa como parámetro en la URL.
         [HttpPut("{id}")]
-        public async Task<ActionResult<Unit>> Editar(int id, Editar.Ejecuta data)
+        public async Task<ActionResult<Unit>> Editar(Guid id, Editar.Ejecuta data)
         {
             data.CursoId = id;
             return await Mediator.Send(data);
         }
 
         [HttpDelete("{id}")]
-        public async Task<ActionResult<Unit>> Eliminar(int id)
+        public async Task<ActionResult<Unit>> Eliminar(Guid id)
         {
             return await Mediator.Send(new Eliminar.Ejecuta { Id = id });
         }

@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Dominio;
 using FluentValidation;
 using MediatR;
+using Microsoft.AspNetCore.Http;
 using Persistencia;
 
 namespace Aplicacion.Cursos
@@ -18,6 +19,8 @@ namespace Aplicacion.Cursos
             public DateTime FechaPublicacion {get;set;}
             public byte[] FotoPortada{get;set;}
             public List<Guid> ListaInstructor {get;set;}
+            public decimal Precio {get;set;}
+            public decimal Promocion {get;set;}
         }
 
 
@@ -42,6 +45,7 @@ namespace Aplicacion.Cursos
             }
             public async Task<Unit> Handle(Ejecuta request, CancellationToken cancellationToken)
             {
+                //Codigo para ingresar un nuevo curso
                 Guid _cursoId = Guid.NewGuid();
                 var curso = new Curso
                 {
@@ -53,6 +57,7 @@ namespace Aplicacion.Cursos
 
                 _context.Curso.Add(curso);
 
+                //Codigo para agregar lista de instructores
                 if(request.ListaInstructor!=null){
                     foreach(var id in request.ListaInstructor){
                         var cursoInstructor = new CursoInstructor{
@@ -62,6 +67,16 @@ namespace Aplicacion.Cursos
                         _context.CursoInstructor.Add(cursoInstructor);
                     }
                 }
+
+                /*Agregar logica para insertar precio de curso*/
+                var precioEntidad = new Precio {
+                    CursoId = _cursoId,
+                    PrecioActual = request.Precio,
+                    Promocion = request.Promocion,
+                    PrecioId = Guid.NewGuid()
+                };
+                
+                _context.Precio.Add(precioEntidad);
 
                 var valor = await _context.SaveChangesAsync();
                 if (valor > 0)
