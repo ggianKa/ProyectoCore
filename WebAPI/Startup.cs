@@ -49,7 +49,7 @@ namespace WebAPI
             });
 
             services.AddOptions();
-            services.Configure<ConexionConfiguracion>(Configuration.GetSection("DefaultConnection"));
+            services.Configure<ConexionConfiguracion>(Configuration.GetSection("ConnectionStrings"));
 
             services.AddMediatR(typeof(Consulta.Manejador).Assembly);
 

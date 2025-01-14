@@ -6,21 +6,23 @@ using System.Threading.Tasks;
 using MediatR;
 using Persistencia.DapperConexion.Instructor;
 
-namespace Aplicacion.Instructor
+namespace Aplicacion.Instructores
 {
     public class Consulta
     {
-        public class Lista : IRequest<IEnumerable<InstructorModel>> {}
-        public class Manejador : IRequestHandler<Lista, IEnumerable<InstructorModel>>
+        public class Lista : IRequest<List<InstructorModel>> {}
+        public class Manejador : IRequestHandler<Lista, List<InstructorModel>>
         {
             private readonly IInstructor _instructorRepository;
 
             public Manejador(IInstructor instructorRepository){
                 _instructorRepository = instructorRepository;
             }
-            public async Task<IEnumerable<InstructorModel>> Handle(Lista request, CancellationToken cancellationToken)
+            public async Task<List<InstructorModel>> Handle(Lista request, CancellationToken cancellationToken)
             {
-                return await _instructorRepository.ObtenerLista();
+                var resultado = await _instructorRepository.ObtenerLista();
+                return resultado.ToList();
+                
             }
         }
     }
