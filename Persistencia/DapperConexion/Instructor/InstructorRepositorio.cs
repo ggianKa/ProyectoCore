@@ -99,7 +99,7 @@ namespace Persistencia.DapperConexion.Instructor
             }
             catch (Exception e)
             {
-                throw new Exception("Error en la consulta de datos");
+                throw new Exception("Error en la consulta de datos", e);
             }
             finally
             {
