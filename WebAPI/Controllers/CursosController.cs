@@ -4,6 +4,7 @@ using iTextSharp.text;
 using MediatR;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Persistencia.DapperConexion.Paginacion;
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
@@ -59,5 +60,11 @@ namespace WebAPI.Controllers
         {
             return await Mediator.Send(new Eliminar.Ejecuta { Id = id });
         }
+
+        [HttpPost("report")]
+        public async Task<ActionResult<PaginacionModel>> Report(PaginacionCurso.Ejecuta data){
+            return await Mediator.Send(data);
+        }
+
     }
 }
