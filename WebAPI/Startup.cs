@@ -68,6 +68,10 @@ namespace WebAPI
             // Crea un IdentityBuilder para configurar la identidad de forma más detallada
             var identityBuilder = new IdentityBuilder(builder.UserType, builder.Services);
 
+            // Instanciar servico de RoleManager
+            identityBuilder.AddRoles<IdentityRole>();
+            identityBuilder.AddClaimsPrincipalFactory<UserClaimsPrincipalFactory<Usuario, IdentityRole>>();
+
             // Agrega el soporte para almacenamiento de la identidad usando Entity Framework Core
             // y especifica CursosOnlineContext como el contexto de base de datos
             identityBuilder.AddEntityFrameworkStores<CursosOnlineContext>();
