@@ -58,7 +58,7 @@ namespace Aplicacion.Seguridad
                 var usuario = new Usuario {
                     NombreCompleto = request.NombreCompleto,
                     Email = request.Email,
-                    UserName = request.Email
+                    UserName = request.Username
                 }; 
 
                 var resultado = await _userManager.CreateAsync(usuario, request.Password);

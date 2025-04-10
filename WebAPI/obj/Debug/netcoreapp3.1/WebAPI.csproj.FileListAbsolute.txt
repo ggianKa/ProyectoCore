@@ -173,7 +173,6 @@ C:\Users\Gian\Desktop\ProyectoCore\WebAPI\bin\Debug\netcoreapp3.1\Persistencia.d
 C:\Users\Gian\Desktop\ProyectoCore\WebAPI\bin\Debug\netcoreapp3.1\Aplicacion.pdb
 C:\Users\Gian\Desktop\ProyectoCore\WebAPI\bin\Debug\netcoreapp3.1\Dominio.pdb
 C:\Users\Gian\Desktop\ProyectoCore\WebAPI\bin\Debug\netcoreapp3.1\Persistencia.pdb
-C:\Users\Gian\Desktop\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
 C:\Users\Gian\Desktop\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Gian\Desktop\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Gian\Desktop\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorAssemblyInfo.cache
@@ -197,7 +196,6 @@ C:\Users\Gian\Desktop\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\staticwebasset
 C:\Users\Gian\Desktop\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
 C:\Users\Gian\Desktop\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
 C:\Users\Gian\Desktop\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
-C:\Users\Gian\Desktop\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
 C:\Users\gian.huallanca\Desktop\ProyectoCore1\WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\gian.huallanca\Desktop\ProyectoCore1\WebApi\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\gian.huallanca\Desktop\ProyectoCore1\WebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -516,3 +514,5 @@ G:\Escritorio\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
 G:\Escritorio\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
 G:\Escritorio\ProyectoCore\WebAPI\bin\Debug\netcoreapp3.1\Seguridad.dll
 G:\Escritorio\ProyectoCore\WebAPI\bin\Debug\netcoreapp3.1\Seguridad.pdb
+C:\Users\Gian\Desktop\ProyectoCore\WebAPI\bin\Debug\netcoreapp3.1\Seguridad.dll
+C:\Users\Gian\Desktop\ProyectoCore\WebAPI\bin\Debug\netcoreapp3.1\Seguridad.pdb

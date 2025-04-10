@@ -17,7 +17,6 @@ C:\Users\Gian\Desktop\ProyectoCore\Aplicacion\bin\Debug\netcoreapp3.1\Dominio.dl
 C:\Users\Gian\Desktop\ProyectoCore\Aplicacion\bin\Debug\netcoreapp3.1\Persistencia.dll
 C:\Users\Gian\Desktop\ProyectoCore\Aplicacion\bin\Debug\netcoreapp3.1\Dominio.pdb
 C:\Users\Gian\Desktop\ProyectoCore\Aplicacion\bin\Debug\netcoreapp3.1\Persistencia.pdb
-C:\Users\Gian\Desktop\ProyectoCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.csproj.CoreCompileInputs.cache
 C:\Users\Gian\Desktop\ProyectoCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.AssemblyInfoInputs.cache
 C:\Users\Gian\Desktop\ProyectoCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.AssemblyInfo.cs
 C:\Users\Gian\Desktop\ProyectoCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.dll

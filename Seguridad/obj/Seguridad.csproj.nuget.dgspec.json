@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Escritorio\\ProyectoCore\\Seguridad\\Seguridad.csproj": {}
+    "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Seguridad\\Seguridad.csproj": {}
   },
   "projects": {
-    "G:\\Escritorio\\ProyectoCore\\Aplicacion\\Aplicacion.csproj": {
+    "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Aplicacion\\Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Escritorio\\ProyectoCore\\Aplicacion\\Aplicacion.csproj",
+        "projectUniqueName": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Aplicacion\\Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "G:\\Escritorio\\ProyectoCore\\Aplicacion\\Aplicacion.csproj",
-        "packagesPath": "C:\\Users\\gian.huallanca\\.nuget\\packages\\",
-        "outputPath": "G:\\Escritorio\\ProyectoCore\\Aplicacion\\obj\\",
+        "projectPath": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Aplicacion\\Aplicacion.csproj",
+        "packagesPath": "C:\\Users\\Gian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Aplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\gian.huallanca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Gian\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,18 +26,16 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "G:\\Escritorio\\ProyectoCore\\Dominio\\Dominio.csproj": {
-                "projectPath": "G:\\Escritorio\\ProyectoCore\\Dominio\\Dominio.csproj"
+              "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\Dominio.csproj"
               },
-              "G:\\Escritorio\\ProyectoCore\\Persistencia\\Persistencia.csproj": {
-                "projectPath": "G:\\Escritorio\\ProyectoCore\\Persistencia\\Persistencia.csproj"
+              "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Persistencia\\Persistencia.csproj"
               }
             }
           }
@@ -46,16 +44,10 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
@@ -80,8 +72,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -93,24 +84,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "G:\\Escritorio\\ProyectoCore\\Dominio\\Dominio.csproj": {
+    "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Escritorio\\ProyectoCore\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "G:\\Escritorio\\ProyectoCore\\Dominio\\Dominio.csproj",
-        "packagesPath": "C:\\Users\\gian.huallanca\\.nuget\\packages\\",
-        "outputPath": "G:\\Escritorio\\ProyectoCore\\Dominio\\obj\\",
+        "projectPath": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\Gian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\gian.huallanca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Gian\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -119,12 +110,10 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -132,16 +121,10 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
@@ -154,8 +137,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -167,24 +149,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "G:\\Escritorio\\ProyectoCore\\Persistencia\\Persistencia.csproj": {
+    "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Escritorio\\ProyectoCore\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "G:\\Escritorio\\ProyectoCore\\Persistencia\\Persistencia.csproj",
-        "packagesPath": "C:\\Users\\gian.huallanca\\.nuget\\packages\\",
-        "outputPath": "G:\\Escritorio\\ProyectoCore\\Persistencia\\obj\\",
+        "projectPath": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Persistencia\\Persistencia.csproj",
+        "packagesPath": "C:\\Users\\Gian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\gian.huallanca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Gian\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -193,15 +175,13 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "G:\\Escritorio\\ProyectoCore\\Dominio\\Dominio.csproj": {
-                "projectPath": "G:\\Escritorio\\ProyectoCore\\Dominio\\Dominio.csproj"
+              "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\Dominio.csproj"
               }
             }
           }
@@ -210,16 +190,10 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Dapper": {
               "target": "Package",
@@ -244,8 +218,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -257,24 +230,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "G:\\Escritorio\\ProyectoCore\\Seguridad\\Seguridad.csproj": {
+    "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Seguridad\\Seguridad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Escritorio\\ProyectoCore\\Seguridad\\Seguridad.csproj",
+        "projectUniqueName": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Seguridad\\Seguridad.csproj",
         "projectName": "Seguridad",
-        "projectPath": "G:\\Escritorio\\ProyectoCore\\Seguridad\\Seguridad.csproj",
-        "packagesPath": "C:\\Users\\gian.huallanca\\.nuget\\packages\\",
-        "outputPath": "G:\\Escritorio\\ProyectoCore\\Seguridad\\obj\\",
+        "projectPath": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Seguridad\\Seguridad.csproj",
+        "packagesPath": "C:\\Users\\Gian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Seguridad\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\gian.huallanca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Gian\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -283,15 +256,13 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "G:\\Escritorio\\ProyectoCore\\Aplicacion\\Aplicacion.csproj": {
-                "projectPath": "G:\\Escritorio\\ProyectoCore\\Aplicacion\\Aplicacion.csproj"
+              "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Aplicacion\\Aplicacion.csproj": {
+                "projectPath": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Aplicacion\\Aplicacion.csproj"
               }
             }
           }
@@ -300,16 +271,10 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
@@ -322,8 +287,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -335,7 +299,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

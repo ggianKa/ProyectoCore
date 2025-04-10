@@ -9,7 +9,6 @@ C:\Users\gian.huallanca\Desktop\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dom
 C:\Users\Gian\Desktop\ProyectoCore\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
 C:\Users\Gian\Desktop\ProyectoCore\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
 C:\Users\Gian\Desktop\ProyectoCore\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
-C:\Users\Gian\Desktop\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
 C:\Users\Gian\Desktop\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
 C:\Users\Gian\Desktop\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
 C:\Users\Gian\Desktop\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
