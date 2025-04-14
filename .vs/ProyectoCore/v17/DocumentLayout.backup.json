@@ -1,42 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\",
+  "WorkspaceRootPath": "G:\\Escritorio\\ProyectoCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4DF9870C-84F5-4D50-992D-9F57033E9257}|Dominio\\Dominio.csproj|c:\\users\\gian\\desktop\\proyectocore\\dominio\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DF9870C-84F5-4D50-992D-9F57033E9257}|Dominio\\Dominio.csproj|solutionrelative:dominio\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Escritorio\\ProyectoCore\\Dominio\\Precio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dominio\\Precio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DF9870C-84F5-4D50-992D-9F57033E9257}|Dominio\\Dominio.csproj|c:\\users\\gian\\desktop\\proyectocore\\dominio\\precio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DF9870C-84F5-4D50-992D-9F57033E9257}|Dominio\\Dominio.csproj|solutionrelative:dominio\\precio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Escritorio\\ProyectoCore\\Dominio\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dominio\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6960B30-11A3-4ED1-9A4F-5DB16B3D07DD}|WebAPI\\WebAPI.csproj|c:\\users\\gian\\desktop\\proyectocore\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6960B30-11A3-4ED1-9A4F-5DB16B3D07DD}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Escritorio\\ProyectoCore\\Persistencia\\DataPrueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Persistencia\\DataPrueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61EC32EE-2767-41B4-B891-534A7EA8A469}|Persistencia\\Persistencia.csproj|c:\\users\\gian\\desktop\\proyectocore\\persistencia\\cursosonlinecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61EC32EE-2767-41B4-B891-534A7EA8A469}|Persistencia\\Persistencia.csproj|solutionrelative:persistencia\\cursosonlinecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61EC32EE-2767-41B4-B891-534A7EA8A469}|Persistencia\\Persistencia.csproj|c:\\users\\gian\\desktop\\proyectocore\\persistencia\\migrations\\20241014052958_identitycoreinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61EC32EE-2767-41B4-B891-534A7EA8A469}|Persistencia\\Persistencia.csproj|solutionrelative:persistencia\\migrations\\20241014052958_identitycoreinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DF9870C-84F5-4D50-992D-9F57033E9257}|Dominio\\Dominio.csproj|c:\\users\\gian\\desktop\\proyectocore\\dominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DF9870C-84F5-4D50-992D-9F57033E9257}|Dominio\\Dominio.csproj|solutionrelative:dominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DF9870C-84F5-4D50-992D-9F57033E9257}|Dominio\\Dominio.csproj|c:\\users\\gian\\desktop\\proyectocore\\dominio\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DF9870C-84F5-4D50-992D-9F57033E9257}|Dominio\\Dominio.csproj|solutionrelative:dominio\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DF9870C-84F5-4D50-992D-9F57033E9257}|Dominio\\Dominio.csproj|c:\\users\\gian\\desktop\\proyectocore\\dominio\\cursoinstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DF9870C-84F5-4D50-992D-9F57033E9257}|Dominio\\Dominio.csproj|solutionrelative:dominio\\cursoinstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DF9870C-84F5-4D50-992D-9F57033E9257}|Dominio\\Dominio.csproj|c:\\users\\gian\\desktop\\proyectocore\\dominio\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DF9870C-84F5-4D50-992D-9F57033E9257}|Dominio\\Dominio.csproj|solutionrelative:dominio\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Escritorio\\ProyectoCore\\Persistencia\\CursosOnlineContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Persistencia\\CursosOnlineContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,117 +38,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Precio.cs",
-              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\Precio.cs",
+              "DocumentMoniker": "G:\\Escritorio\\ProyectoCore\\Dominio\\Precio.cs",
               "RelativeDocumentMoniker": "Dominio\\Precio.cs",
-              "ToolTip": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\Precio.cs",
+              "ToolTip": "G:\\Escritorio\\ProyectoCore\\Dominio\\Precio.cs",
               "RelativeToolTip": "Dominio\\Precio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T04:42:17.959Z",
+              "WhenOpened": "2025-01-02T21:08:31.285Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\WebAPI\\Program.cs",
-              "RelativeToolTip": "WebAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "G:\\Escritorio\\ProyectoCore\\Dominio\\Usuario.cs",
+              "RelativeDocumentMoniker": "Dominio\\Usuario.cs",
+              "ToolTip": "G:\\Escritorio\\ProyectoCore\\Dominio\\Usuario.cs",
+              "RelativeToolTip": "Dominio\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T03:56:15.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T21:08:29.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataPrueba.cs",
+              "DocumentMoniker": "G:\\Escritorio\\ProyectoCore\\Persistencia\\DataPrueba.cs",
+              "RelativeDocumentMoniker": "Persistencia\\DataPrueba.cs",
+              "ToolTip": "G:\\Escritorio\\ProyectoCore\\Persistencia\\DataPrueba.cs",
+              "RelativeToolTip": "Persistencia\\DataPrueba.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T21:08:20.775Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "CursosOnlineContext.cs",
-              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Persistencia\\CursosOnlineContext.cs",
+              "DocumentMoniker": "G:\\Escritorio\\ProyectoCore\\Persistencia\\CursosOnlineContext.cs",
               "RelativeDocumentMoniker": "Persistencia\\CursosOnlineContext.cs",
-              "ToolTip": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Persistencia\\CursosOnlineContext.cs",
+              "ToolTip": "G:\\Escritorio\\ProyectoCore\\Persistencia\\CursosOnlineContext.cs",
               "RelativeToolTip": "Persistencia\\CursosOnlineContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T04:56:11.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\Usuario.cs",
-              "RelativeDocumentMoniker": "Dominio\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\Usuario.cs",
-              "RelativeToolTip": "Dominio\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T04:53:18.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Instructor.cs",
-              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\Instructor.cs",
-              "RelativeDocumentMoniker": "Dominio\\Instructor.cs",
-              "ToolTip": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\Instructor.cs",
-              "RelativeToolTip": "Dominio\\Instructor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T06:55:14.325Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Comentario.cs",
-              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\Comentario.cs",
-              "RelativeDocumentMoniker": "Dominio\\Comentario.cs",
-              "ToolTip": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\Comentario.cs",
-              "RelativeToolTip": "Dominio\\Comentario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T06:54:15.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20241014052958_IdentityCoreInicial.cs",
-              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Persistencia\\Migrations\\20241014052958_IdentityCoreInicial.cs",
-              "RelativeDocumentMoniker": "Persistencia\\Migrations\\20241014052958_IdentityCoreInicial.cs",
-              "ToolTip": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Persistencia\\Migrations\\20241014052958_IdentityCoreInicial.cs",
-              "RelativeToolTip": "Persistencia\\Migrations\\20241014052958_IdentityCoreInicial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T03:55:44.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CursoInstructor.cs",
-              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\CursoInstructor.cs",
-              "RelativeDocumentMoniker": "Dominio\\CursoInstructor.cs",
-              "ToolTip": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\CursoInstructor.cs",
-              "RelativeToolTip": "Dominio\\CursoInstructor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T06:55:14.586Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Curso.cs",
-              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\Curso.cs",
-              "RelativeDocumentMoniker": "Dominio\\Curso.cs",
-              "ToolTip": "C:\\Users\\Gian\\Desktop\\ProyectoCore\\Dominio\\Curso.cs",
-              "RelativeToolTip": "Dominio\\Curso.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T06:55:03.472Z"
+              "WhenOpened": "2025-01-02T21:08:18.108Z"
             }
           ]
         }
